@@ -1,3 +1,7 @@
+This model is based on the paper Agent-based Dynamics of a SPAHR Opioid Model on
+Social Network Structures by Quin, Owen Queena, Vincent Jodoina, Leigh B. Pearcya, and W. Christopher
+Stricklanda, found here https://arxiv.org/pdf/2202.12261.
+
 The main SPAHR model is contained in the SPAHR_model.ipynb file. 
 To be able to run this file you must use python 3.9 as newer versions 
 run into isssues with the MESA version based our model off. Our 
