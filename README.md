@@ -1,4 +1,4 @@
-The main model is defined in SPAHR-Model.ipynb
+The main model is defined in SPAHR_Model.ipynb
 
 This model is based on the paper Agent-based Dynamics of a SPAHR Opioid Model on
 Social Network Structures by Quin, Owen Queena, Vincent Jodoina, Leigh B. Pearcya, and W. Christopher
